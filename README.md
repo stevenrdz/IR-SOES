@@ -2,13 +2,13 @@
 
 
 
-## Técnicas:
+## Techniques:
 
 * Vector Space Model
 * Word Embedding
 * Cosine Similarity
 
-## Autores
+## Authors
 
 * **Steven Rodríguez** - *Trabajo Inicial*
 * **Cristopher Loor** - *Documentación*
