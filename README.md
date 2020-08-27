@@ -5,7 +5,7 @@
 ## Techniques:
 
 * Vector Space Model
-* Word Embedding
+* Word Mover Distance
 * Cosine Similarity
 
 ## Authors
